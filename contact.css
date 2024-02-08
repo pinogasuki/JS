@@ -1,0 +1,56 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: lightskyblue;
+    height: 100px;
+   
+}
+
+.menu {
+    text-align: right;
+    
+}
+.form {
+    background-color: gainsboro;
+    text-align: center;
+
+}
+.logo {
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top:-20px;
+    left: 5px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 35%;
+    text-align: right;
+   
+   
+    
+}
+
+li {
+    list-style: none;
+    display: inline;
+    padding: 0 10px;
+   
+    
+}
+
+form {
+   margin: 0 auto;
+
+}
+
+
+
+textarea {
+    width: 380px;
+    height: 100px;
+}
